@@ -1,51 +1,18 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Creating a New Video Game Step by StepGuide
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Esta apresentação fornece um guia abrangente sobre o processo de criação de um videogame, desde o desenvolvimento inicial do conceito até o lançamento e suporte pós-lançamento. Composta por 10 slides, a apresentação cobre os principais passos, incluindo desenvolvimento do conceito, planejamento, formação da equipe, prototipagem, produção, design visual e sonoro, testes de qualidade, marketing e suporte contínuo. É uma visão geral concisa e organizada que destaca a importância da pesquisa de mercado, colaboração em equipe, testes iterativos e engajamento com a comunidade para o sucesso de um videogame.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para criação dos tópicos da apresentação;
+- IA Generativa **[Gamma](https://gamma.app/)** para criar os slides e artes da apresentação em si;
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Inseri prompts para o ChatGPT solicitando a criação de 10 tópicos sobre o passo a passo para se criar um videogame para serem inseridos em uma apresentação de 10 slides. Após a resposta, copiei os tópicos e inseri na interface "Paste in text" do Gamma e selecionei um dos temas disponibilizados.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[Creating a New Video Game Step by StepGuide PDF](https://github.com/danielreboucas/lab-natty-or-not/blob/main/Creating-a-New-Video-Game-Step-by-Step-Guide.pdf)
+![](https://github.com/danielreboucas/lab-natty-or-not/blob/main/Creating-a-New-Video-Game-Step-by-Step-Guide-ezgif.com-speed.gif)
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+Criar essa apresentação com essa complexidade de informações e com essas artes bonitas em uma fração do tempo que seria ao criar manualmente nos mostra como essas ferramentas facilitam as atividades do dia a dia de formas espetaculares
